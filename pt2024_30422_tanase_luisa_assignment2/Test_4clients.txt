@@ -1,0 +1,190 @@
+Generated tasks:
+(1,5,2)
+(2,10,2)
+(3,16,4)
+(4,27,3)
+
+Current time = 0
+	Server 1: 
+	Server 2: 
+Current time = 1
+	Server 1: 
+	Server 2: 
+Current time = 2
+	Server 1: 
+	Server 2: 
+Current time = 3
+	Server 1: 
+	Server 2: 
+Current time = 4
+	Server 1: 
+	Server 2: 
+Current time = 5
+	Server 1: (1,5,2)  
+	Server 2: 
+Current time = 6
+	Server 1: (1,5,1)  
+	Server 2: 
+Current time = 7
+	Server 1: 
+	Server 2: 
+Current time = 8
+	Server 1: 
+	Server 2: 
+Current time = 9
+	Server 1: 
+	Server 2: 
+Current time = 10
+	Server 1: (2,10,2)  
+	Server 2: 
+Current time = 11
+	Server 1: (2,10,1)  
+	Server 2: 
+Current time = 12
+	Server 1: 
+	Server 2: 
+Current time = 13
+	Server 1: 
+	Server 2: 
+Current time = 14
+	Server 1: 
+	Server 2: 
+Current time = 15
+	Server 1: 
+	Server 2: 
+Current time = 16
+	Server 1: (3,16,4)  
+	Server 2: 
+Current time = 17
+	Server 1: (3,16,3)  
+	Server 2: 
+Current time = 18
+	Server 1: (3,16,2)  
+	Server 2: 
+Current time = 19
+	Server 1: (3,16,1)  
+	Server 2: 
+Current time = 20
+	Server 1: 
+	Server 2: 
+Current time = 21
+	Server 1: 
+	Server 2: 
+Current time = 22
+	Server 1: 
+	Server 2: 
+Current time = 23
+	Server 1: 
+	Server 2: 
+Current time = 24
+	Server 1: 
+	Server 2: 
+Current time = 25
+	Server 1: 
+	Server 2: 
+Current time = 26
+	Server 1: 
+	Server 2: 
+Current time = 27
+	Server 1: (4,27,3)  
+	Server 2: 
+Current time = 28
+	Server 1: (4,27,2)  
+	Server 2: 
+Current time = 29
+	Server 1: (4,27,1)  
+	Server 2: 
+Current time = 30
+	Server 1: 
+	Server 2: 
+Current time = 31
+	Server 1: 
+	Server 2: 
+Current time = 32
+	Server 1: 
+	Server 2: 
+Current time = 33
+	Server 1: 
+	Server 2: 
+Current time = 34
+	Server 1: 
+	Server 2: 
+Current time = 35
+	Server 1: 
+	Server 2: 
+Current time = 36
+	Server 1: 
+	Server 2: 
+Current time = 37
+	Server 1: 
+	Server 2: 
+Current time = 38
+	Server 1: 
+	Server 2: 
+Current time = 39
+	Server 1: 
+	Server 2: 
+Current time = 40
+	Server 1: 
+	Server 2: 
+Current time = 41
+	Server 1: 
+	Server 2: 
+Current time = 42
+	Server 1: 
+	Server 2: 
+Current time = 43
+	Server 1: 
+	Server 2: 
+Current time = 44
+	Server 1: 
+	Server 2: 
+Current time = 45
+	Server 1: 
+	Server 2: 
+Current time = 46
+	Server 1: 
+	Server 2: 
+Current time = 47
+	Server 1: 
+	Server 2: 
+Current time = 48
+	Server 1: 
+	Server 2: 
+Current time = 49
+	Server 1: 
+	Server 2: 
+Current time = 50
+	Server 1: 
+	Server 2: 
+Current time = 51
+	Server 1: 
+	Server 2: 
+Current time = 52
+	Server 1: 
+	Server 2: 
+Current time = 53
+	Server 1: 
+	Server 2: 
+Current time = 54
+	Server 1: 
+	Server 2: 
+Current time = 55
+	Server 1: 
+	Server 2: 
+Current time = 56
+	Server 1: 
+	Server 2: 
+Current time = 57
+	Server 1: 
+	Server 2: 
+Current time = 58
+	Server 1: 
+	Server 2: 
+Current time = 59
+	Server 1: 
+	Server 2: 
+
+Average waiting time: 0.0 seconds
+Average service time: 2.75 seconds
+Peak hour: 27

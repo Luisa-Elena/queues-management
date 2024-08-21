@@ -1,0 +1,416 @@
+Generated tasks:
+(1,2,4)
+(2,2,7)
+(3,4,5)
+(4,4,7)
+(5,5,1)
+(6,5,6)
+(7,6,7)
+(8,7,1)
+(9,7,4)
+(10,9,3)
+(11,11,1)
+(12,11,2)
+(13,12,4)
+(14,13,3)
+(15,13,1)
+(16,14,7)
+(17,15,3)
+(18,15,7)
+(19,17,3)
+(20,17,4)
+(21,18,2)
+(22,20,4)
+(23,21,7)
+(24,22,5)
+(25,24,2)
+(26,24,4)
+(27,24,3)
+(28,25,4)
+(29,25,7)
+(30,26,2)
+(31,26,7)
+(32,26,3)
+(33,26,3)
+(34,27,6)
+(35,28,6)
+(36,28,6)
+(37,30,1)
+(38,31,1)
+(39,32,6)
+(40,36,3)
+(41,36,5)
+(42,37,1)
+(43,37,5)
+(44,37,5)
+(45,38,6)
+(46,38,6)
+(47,38,7)
+(48,38,4)
+(49,40,3)
+(50,40,6)
+
+Current time = 0
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 1
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 2
+	Server 1: (1,2,3)  
+	Server 2: (2,2,7)  
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 3
+	Server 1: (1,2,2)  
+	Server 2: (2,2,6)  
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 4
+	Server 1: (1,2,1)  
+	Server 2: (2,2,5)  
+	Server 3: (3,4,4)  
+	Server 4: (4,4,7)  
+	Server 5: 
+Current time = 5
+	Server 1: (6,5,6)  
+	Server 2: (2,2,4)  
+	Server 3: (3,4,3)  
+	Server 4: (4,4,6)  
+	Server 5: 
+Current time = 6
+	Server 1: (6,5,5)  
+	Server 2: (2,2,3)  
+	Server 3: (3,4,2)  
+	Server 4: (4,4,5)  
+	Server 5: (7,6,6)  
+Current time = 7
+	Server 1: (6,5,4)  
+	Server 2: (2,2,2)  (8,7,1)  
+	Server 3: (3,4,1)  (9,7,4)  
+	Server 4: (4,4,4)  
+	Server 5: (7,6,5)  
+Current time = 8
+	Server 1: (6,5,3)  
+	Server 2: (2,2,1)  (8,7,1)  
+	Server 3: (9,7,4)  
+	Server 4: (4,4,3)  
+	Server 5: (7,6,4)  
+Current time = 9
+	Server 1: (6,5,2)  
+	Server 2: (8,7,1)  (10,9,3)  
+	Server 3: (9,7,3)  
+	Server 4: (4,4,2)  
+	Server 5: (7,6,3)  
+Current time = 10
+	Server 1: (6,5,1)  
+	Server 2: (10,9,3)  
+	Server 3: (9,7,2)  
+	Server 4: (4,4,1)  
+	Server 5: (7,6,2)  
+Current time = 11
+	Server 1: (11,11,1)  
+	Server 2: (10,9,2)  
+	Server 3: (9,7,1)  
+	Server 4: (12,11,2)  
+	Server 5: (7,6,1)  
+Current time = 12
+	Server 1: (13,12,4)  
+	Server 2: (10,9,1)  
+	Server 3: 
+	Server 4: (12,11,1)  
+	Server 5: 
+Current time = 13
+	Server 1: (13,12,3)  
+	Server 2: (14,13,3)  
+	Server 3: (15,13,1)  
+	Server 4: 
+	Server 5: 
+Current time = 14
+	Server 1: (13,12,2)  
+	Server 2: (14,13,2)  
+	Server 3: (16,14,7)  
+	Server 4: 
+	Server 5: 
+Current time = 15
+	Server 1: (13,12,1)  
+	Server 2: (14,13,1)  
+	Server 3: (16,14,6)  
+	Server 4: (17,15,3)  
+	Server 5: (18,15,7)  
+Current time = 16
+	Server 1: 
+	Server 2: 
+	Server 3: (16,14,5)  
+	Server 4: (17,15,2)  
+	Server 5: (18,15,6)  
+Current time = 17
+	Server 1: (19,17,3)  
+	Server 2: (20,17,4)  
+	Server 3: (16,14,4)  
+	Server 4: (17,15,1)  
+	Server 5: (18,15,5)  
+Current time = 18
+	Server 1: (19,17,2)  
+	Server 2: (20,17,3)  
+	Server 3: (16,14,3)  
+	Server 4: (21,18,2)  
+	Server 5: (18,15,4)  
+Current time = 19
+	Server 1: (19,17,1)  
+	Server 2: (20,17,2)  
+	Server 3: (16,14,2)  
+	Server 4: (21,18,1)  
+	Server 5: (18,15,3)  
+Current time = 20
+	Server 1: (22,20,4)  
+	Server 2: (20,17,1)  
+	Server 3: (16,14,1)  
+	Server 4: 
+	Server 5: (18,15,2)  
+Current time = 21
+	Server 1: (22,20,3)  
+	Server 2: (23,21,7)  
+	Server 3: 
+	Server 4: 
+	Server 5: (18,15,1)  
+Current time = 22
+	Server 1: (22,20,2)  
+	Server 2: (23,21,6)  
+	Server 3: (24,22,5)  
+	Server 4: 
+	Server 5: 
+Current time = 23
+	Server 1: (22,20,1)  
+	Server 2: (23,21,5)  
+	Server 3: (24,22,4)  
+	Server 4: 
+	Server 5: 
+Current time = 24
+	Server 1: (25,24,2)  
+	Server 2: (23,21,4)  
+	Server 3: (24,22,3)  
+	Server 4: (26,24,4)  
+	Server 5: (27,24,3)  
+Current time = 25
+	Server 1: (25,24,1)  (28,25,4)  
+	Server 2: (23,21,3)  
+	Server 3: (24,22,2)  (29,25,7)  
+	Server 4: (26,24,3)  
+	Server 5: (27,24,2)  
+Current time = 26
+	Server 1: (28,25,4)  
+	Server 2: (23,21,2)  (31,26,7)  
+	Server 3: (24,22,1)  (29,25,7)  
+	Server 4: (26,24,2)  (32,26,3)  
+	Server 5: (27,24,1)  (30,26,2)  (33,26,3)  
+Current time = 27
+	Server 1: (28,25,3)  (34,27,6)  
+	Server 2: (23,21,1)  (31,26,7)  
+	Server 3: (29,25,7)  
+	Server 4: (26,24,1)  (32,26,3)  
+	Server 5: (30,26,2)  (33,26,3)  
+Current time = 28
+	Server 1: (28,25,2)  (34,27,6)  
+	Server 2: (31,26,7)  
+	Server 3: (29,25,6)  
+	Server 4: (32,26,3)  (35,28,6)  
+	Server 5: (30,26,1)  (33,26,3)  (36,28,6)  
+Current time = 29
+	Server 1: (28,25,1)  (34,27,6)  
+	Server 2: (31,26,6)  
+	Server 3: (29,25,5)  
+	Server 4: (32,26,2)  (35,28,6)  
+	Server 5: (33,26,3)  (36,28,6)  
+Current time = 30
+	Server 1: (34,27,6)  
+	Server 2: (31,26,5)  
+	Server 3: (29,25,4)  (37,30,1)  
+	Server 4: (32,26,1)  (35,28,6)  
+	Server 5: (33,26,2)  (36,28,6)  
+Current time = 31
+	Server 1: (34,27,5)  
+	Server 2: (31,26,4)  (38,31,1)  
+	Server 3: (29,25,3)  (37,30,1)  
+	Server 4: (35,28,6)  
+	Server 5: (33,26,1)  (36,28,6)  
+Current time = 32
+	Server 1: (34,27,4)  
+	Server 2: (31,26,3)  (38,31,1)  
+	Server 3: (29,25,2)  (37,30,1)  (39,32,6)  
+	Server 4: (35,28,5)  
+	Server 5: (36,28,6)  
+Current time = 33
+	Server 1: (34,27,3)  
+	Server 2: (31,26,2)  (38,31,1)  
+	Server 3: (29,25,1)  (37,30,1)  (39,32,6)  
+	Server 4: (35,28,4)  
+	Server 5: (36,28,5)  
+Current time = 34
+	Server 1: (34,27,2)  
+	Server 2: (31,26,1)  (38,31,1)  
+	Server 3: (37,30,1)  (39,32,6)  
+	Server 4: (35,28,3)  
+	Server 5: (36,28,4)  
+Current time = 35
+	Server 1: (34,27,1)  
+	Server 2: (38,31,1)  
+	Server 3: (39,32,6)  
+	Server 4: (35,28,2)  
+	Server 5: (36,28,3)  
+Current time = 36
+	Server 1: (40,36,3)  
+	Server 2: (41,36,5)  
+	Server 3: (39,32,5)  
+	Server 4: (35,28,1)  
+	Server 5: (36,28,2)  
+Current time = 37
+	Server 1: (40,36,2)  
+	Server 2: (41,36,4)  
+	Server 3: (39,32,4)  
+	Server 4: (42,37,1)  (43,37,5)  
+	Server 5: (36,28,1)  (44,37,5)  
+Current time = 38
+	Server 1: (40,36,1)  (45,38,6)  
+	Server 2: (41,36,3)  (46,38,6)  
+	Server 3: (39,32,3)  (47,38,7)  
+	Server 4: (43,37,5)  (48,38,4)  
+	Server 5: (44,37,5)  
+Current time = 39
+	Server 1: (45,38,6)  
+	Server 2: (41,36,2)  (46,38,6)  
+	Server 3: (39,32,2)  (47,38,7)  
+	Server 4: (43,37,4)  (48,38,4)  
+	Server 5: (44,37,4)  
+Current time = 40
+	Server 1: (45,38,5)  (50,40,6)  
+	Server 2: (41,36,1)  (46,38,6)  
+	Server 3: (39,32,1)  (47,38,7)  
+	Server 4: (43,37,3)  (48,38,4)  
+	Server 5: (44,37,3)  (49,40,3)  
+Current time = 41
+	Server 1: (45,38,4)  (50,40,6)  
+	Server 2: (46,38,6)  
+	Server 3: (47,38,7)  
+	Server 4: (43,37,2)  (48,38,4)  
+	Server 5: (44,37,2)  (49,40,3)  
+Current time = 42
+	Server 1: (45,38,3)  (50,40,6)  
+	Server 2: (46,38,5)  
+	Server 3: (47,38,6)  
+	Server 4: (43,37,1)  (48,38,4)  
+	Server 5: (44,37,1)  (49,40,3)  
+Current time = 43
+	Server 1: (45,38,2)  (50,40,6)  
+	Server 2: (46,38,4)  
+	Server 3: (47,38,5)  
+	Server 4: (48,38,4)  
+	Server 5: (49,40,3)  
+Current time = 44
+	Server 1: (45,38,1)  (50,40,6)  
+	Server 2: (46,38,3)  
+	Server 3: (47,38,4)  
+	Server 4: (48,38,3)  
+	Server 5: (49,40,2)  
+Current time = 45
+	Server 1: (50,40,6)  
+	Server 2: (46,38,2)  
+	Server 3: (47,38,3)  
+	Server 4: (48,38,2)  
+	Server 5: (49,40,1)  
+Current time = 46
+	Server 1: (50,40,5)  
+	Server 2: (46,38,1)  
+	Server 3: (47,38,2)  
+	Server 4: (48,38,1)  
+	Server 5: 
+Current time = 47
+	Server 1: (50,40,4)  
+	Server 2: 
+	Server 3: (47,38,1)  
+	Server 4: 
+	Server 5: 
+Current time = 48
+	Server 1: (50,40,3)  
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 49
+	Server 1: (50,40,2)  
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 50
+	Server 1: (50,40,1)  
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 51
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 52
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 53
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 54
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 55
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 56
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 57
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 58
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+Current time = 59
+	Server 1: 
+	Server 2: 
+	Server 3: 
+	Server 4: 
+	Server 5: 
+
+Average waiting time: 1.2 seconds
+Average service time: 4.2 seconds
+Peak hour: 40
